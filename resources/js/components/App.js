@@ -7,11 +7,11 @@ import Cliente from './Cliente'
 import Inventario from './Inventario'
 import Pedido from './Pedido'
 import Grafica from './Grafica'
-
+//basename="/example/laravel-react/public"
 class App extends Component {
   render () {
     return (
-        <BrowserRouter basename="/example/laravel-react/public">
+        <BrowserRouter >
       
           <div>
             <Header />

@@ -4,7 +4,9 @@ import produce from 'immer/dist/immer';
 import SimpleBarChart from './Chart/SimpleBarChart';
 
 
-const baseUrl = "http://localhost/example/laravel-react/public/";
+//const baseUrl = "http://localhost/example/laravel-react/public/";
+
+const baseUrl = "http://localhost:8000/";
 
 export default class Grafica extends Component {
 

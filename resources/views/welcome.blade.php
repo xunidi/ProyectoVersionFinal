@@ -69,7 +69,7 @@
         <div class="flex-center position-ref full-height">
        
           <div class="content">
-          <img src="{{ asset('../resources/img/logon.jpg') }}"/>
+          <img src="{{ asset('images/logon.jpg') }}"/>
               <div class="title m-b-md">
                  Nevería El Llano
               </div>

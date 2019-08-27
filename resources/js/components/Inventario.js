@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import ReactDOM from 'react-dom';
 
-const baseUrl = "http://localhost/example/laravel-react/public/";
+const baseUrl = "http://localhost:8000/";
 
 export default class Inventario extends Component {
    
